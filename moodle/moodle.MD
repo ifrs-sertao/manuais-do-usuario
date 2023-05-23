@@ -18,20 +18,20 @@ Para ajustar as datas de início e término das suas disciplinas, siga os passos
 
 ![](images/lista-disciplinas-pagina-incial-editada.png)
 
-2. Na página de visualização da disciplina, clique no ícone de engrenagem e selecione a opção "Editar as configurações".
+2. Na página de visualização da disciplina, no canto superior direito, clique no ícone de engrenagem e selecione a opção "Editar as configurações".
 
 ![](images/visualizacao-da-disciplina.png)
 
-Se for uma disciplina de 2023:  
-3. No item "Data de início do curso", insira 01/03/202  
-4. No item "Data de término do curso", marque o checkbox "Habilitar", insira 31/12/2023.
+3. Se for uma disciplina de 2023:  
+3.1 No item "Data de início do curso", insira 01/03/202  
+3.2 No item "Data de término do curso", marque o checkbox "Habilitar", insira 31/12/2023.
 
-Se for uma disciplina anterior à 2023:  
-3. No item "Data de início do curso", insira 01/03/2022  
-4. No item "Data de término do curso", marque o checkbox "Habilitar", insira 31/12/2022.
+4. Se for uma disciplina anterior à 2023:  
+4.1 No item "Data de início do curso", insira 01/03/2022  
+4.2 No item "Data de término do curso", marque o checkbox "Habilitar", insira 31/12/2022.
 
 ![](images/edicao-configuracao-disciplina.png)
 
-4. Clique em "Salvar e mostrar" no botão azul bem abaixo.
+5. Clique em "Salvar e mostrar" no botão azul bem abaixo.
 
 Pronto! As configurações da disciplina foram atualizadas.
