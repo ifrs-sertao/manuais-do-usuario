@@ -1,7 +1,11 @@
 ---
-title: "Manual do usuário - Moodle"
+layout: post
+title: Manual do usuário - Moodle
+author: Everton Pavan
+categories: [Moodle]
 date: 2023-05-22
 ---
+
 <!-- ## Manual do usuário - Moodle -->
 Segue abaixo as soluções para alguns problemas/dificuldades/dúvidas encontrados no Moodle.
 <hr />
