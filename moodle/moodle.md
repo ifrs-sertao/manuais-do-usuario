@@ -31,7 +31,7 @@ A lista de disciplinas será atualizada com todas as disciplinas vinculadas ao s
 <br />
 
 
-[Voltar para página inicial](./)
+[Voltar para página inicial](././)
 
 ### **Solução: Ajustar datas de início e término da disciplina**
 
@@ -59,4 +59,4 @@ Para ajustar as datas de início e término das suas disciplinas, siga os passos
 
 Pronto! As configurações da disciplina foram atualizadas.
 
-[Voltar para página inicial](./)
+[Voltar para página inicial](./../)
