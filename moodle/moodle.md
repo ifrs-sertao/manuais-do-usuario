@@ -5,7 +5,7 @@ author: Everton Pavan
 categories: [Moodle | Problema]
 date: 2023-05-22
 description: Isso pode ocorrer quando as datas de início e término das disciplinas foram configuradas de forma errada.   
-Por exemplo, se a data de início for 01/01/2022 e a data de término for 31/12/2022, o Moodle entenderá que a disciplina não está em andamento e foi concluída.
+# Por exemplo, se a data de início for 01/01/2022 e a data de término for 31/12/2022, o Moodle entenderá que a disciplina não está em andamento e foi concluída.
 ---
 
 <!-- ## Manual do usuário - Moodle
