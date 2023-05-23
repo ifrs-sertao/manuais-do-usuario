@@ -6,6 +6,7 @@ categories: [Moodle]
 date: 2023-05-22
 description: Ajuda referente ao Moodle
 ---
+[Voltar para página incial](./)
 
 ## Manual do usuário - Moodle
 
@@ -54,3 +55,5 @@ Para ajustar as datas de início e término das suas disciplinas, siga os passos
 5. Clique em "Salvar e mostrar" no botão azul bem abaixo.
 
 Pronto! As configurações da disciplina foram atualizadas.
+
+[Voltar para página incial](./)
