@@ -8,7 +8,8 @@ Isso pode ocorrer quando as datas de início e término das disciplinas foram co
 2. Clique no botão abaixo do texto "Resumo das disciplinas" (geralmente, por padrão, a opção "Em andamento" está selecionada).
 3. Selecione a opção "TODOS" (exceto removidos da visualização).
 
-<img src="moodle/images/pagina-inicial-visualizar-todas-as-disciplinas.png" />
+![Descrição da imagem](moodle/images/pagina-inicial-visualizar-todas-as-disciplinas.png  )
+<!-- <img src="moodle/images/pagina-inicial-visualizar-todas-as-disciplinas.png" /> -->
 
 A lista de disciplinas será atualizada com todas as disciplinas vinculadas ao seu usuário.
 
