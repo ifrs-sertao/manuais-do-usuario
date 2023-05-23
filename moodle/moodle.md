@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Problema: Algumas disciplinas não aparecem no Moodle'
+title: Problema - Algumas disciplinas não aparecem no Moodle
 author: Everton Pavan
 categories: [Moodle]
 date: 2023-05-22
