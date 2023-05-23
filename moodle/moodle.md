@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Problema de algumas disciplinas não aparecem no Moodle
+title: Moodle | Problema - Disciplinas não aparecem na tela inicial
 author: Everton Pavan
-categories: [Moodle]
+categories: [Moodle | Problema]
 date: 2023-05-22
-# description: Isso pode ocorrer quando as datas de início e término das disciplinas foram configuradas de forma errada.   
-# Por exemplo, se a data de início for 01/01/2022 e a data de término for 31/12/2022, o Moodle entenderá que a disciplina não está em andamento e foi concluída.
+description: Isso pode ocorrer quando as datas de início e término das disciplinas foram configuradas de forma errada.   
+Por exemplo, se a data de início for 01/01/2022 e a data de término for 31/12/2022, o Moodle entenderá que a disciplina não está em andamento e foi concluída.
 ---
 
 <!-- ## Manual do usuário - Moodle
@@ -29,6 +29,9 @@ Por exemplo, se a data de início for 01/01/2022 e a data de término for 31/12/
 A lista de disciplinas será atualizada com todas as disciplinas vinculadas ao seu usuário.
 
 <br />
+
+
+[Voltar para página inicial](./)
 
 ### **Solução: Ajustar datas de início e término da disciplina**
 
@@ -55,3 +58,5 @@ Para ajustar as datas de início e término das suas disciplinas, siga os passos
 5. Clique em "Salvar e mostrar" no botão azul bem abaixo.
 
 Pronto! As configurações da disciplina foram atualizadas.
+
+[Voltar para página inicial](./)
