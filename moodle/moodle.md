@@ -1,8 +1,14 @@
+## Manual do usuário - Moodle
+
 Segue abaixo as soluções para alguns problemas/dificuldades/dúvidas encontrados no Moodle.
+<hr />
 
-**Problema: Algumas disciplinas não aparecem no Moodle:**
+### **Problema: Algumas disciplinas não aparecem no Moodle:**
 
-Isso pode ocorrer quando as datas de início e término das disciplinas foram configuradas de forma errada. Por exemplo, se a data de início for 01/01/2022 e a data de término for 31/12/2022, o Moodle entenderá que a disciplina não está em andamento e foi concluída, como mostra a imagem abaixo:
+Isso pode ocorrer quando as datas de início e término das disciplinas foram configuradas de forma errada.   
+Por exemplo, se a data de início for 01/01/2022 e a data de término for 31/12/2022, o Moodle entenderá que a disciplina não está em andamento e foi concluída.
+
+### **Solução: Exibir todas as disciplinas**
 
 1. Entre na página inicial do Moodle.
 2. Clique no botão abaixo do texto "Resumo das disciplinas" (geralmente, por padrão, a opção "Em andamento" está selecionada).
@@ -11,6 +17,10 @@ Isso pode ocorrer quando as datas de início e término das disciplinas foram co
 ![](images/pagina-inicial-visualizar-todas-as-disciplinas.png)
 
 A lista de disciplinas será atualizada com todas as disciplinas vinculadas ao seu usuário.
+
+<br />
+
+### **Solução: Ajustar datas de início e término da disciplina**
 
 Para ajustar as datas de início e término das suas disciplinas, siga os passos abaixo:
 
